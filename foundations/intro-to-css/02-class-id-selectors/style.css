@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.odds {
+    background-color: #ff000060;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+.three {
+    font-size: 24px;
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#four {
+    background-color: #00ff0060;
+    font-size: 24px;
+    font-weight: bold;
+}
